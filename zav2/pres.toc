@@ -1,5 +1,0 @@
-\babel@toc {ukrainian}{}\relax 
-\beamer@sectionintoc {1}{Історична довідка}{3}{0}{1}
-\beamer@sectionintoc {2}{Теоретичні основи}{6}{0}{2}
-\beamer@sectionintoc {3}{Візуалізація}{7}{0}{3}
-\beamer@sectionintoc {4}{Висновки}{9}{0}{4}
